@@ -2,7 +2,7 @@
   "name": "ecommerce-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://grabfast.github.io/ReactJS-ecommerce-template",
+  "homepage": "http://grabfast.github.io/GrabFast",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
