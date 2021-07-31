@@ -1,4 +1,2 @@
-heroku scale web=0
-heroku scale bot=1
-
-bot: yarn start
+heroku scale web=1
+web: cd GrabFast/ && yarn install && yarn build
