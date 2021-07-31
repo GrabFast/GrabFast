@@ -1,2 +1,2 @@
 heroku scale web=1
-web: yarn start
+web: set PORT=process.env.PORT && yarn start
