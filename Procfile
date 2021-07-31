@@ -1,2 +1,4 @@
 heroku scale web=0
-web: yarn start
+heroku scale bot=1
+
+bot: yarn start
