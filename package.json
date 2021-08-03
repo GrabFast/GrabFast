@@ -25,7 +25,7 @@
     "react-scripts": "^4.0.1"
   },
   "scripts": {
-    "postinstall": "yarn build",
+    // "postinstall": "yarn build",
     "start":"react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
