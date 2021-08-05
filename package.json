@@ -2,7 +2,6 @@
   "name": "ecommerce-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://grabfast.github.io/GrabFast",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -22,7 +21,6 @@
     "reselect": "^4.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3",
     "react-scripts": "^4.0.1"
   },
   "scripts": {
