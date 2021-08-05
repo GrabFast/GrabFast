@@ -25,9 +25,9 @@
     "react-scripts": "^4.0.1"
   },
   "scripts": {
-    "start": "",
+    "start": "react-scripts start",
     "build": "npm install && react-scripts build",
-    "postinstall": "react-scripts start",
+    "postinstall": "",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
