@@ -30,6 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "/GrabFast",
   "eslintConfig": {
     "extends": "react-app"
   },
